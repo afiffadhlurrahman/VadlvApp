@@ -23,6 +23,8 @@ namespace VadlvApp
         public MainWindow()
         {
             InitializeComponent();
+
+            this.DataContext = new WindowViewModel();
         }
     }
 }

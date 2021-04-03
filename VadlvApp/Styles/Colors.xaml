@@ -1,0 +1,19 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:VadlvApp.Styles">
+    <Color x:Key="BackgroundLigth">#efefef</Color>
+    <SolidColorBrush x:Key="BackgroundLigthBrush" Color="{StaticResource BackgroundLigth}"/>
+
+    <Color x:Key="BackgroundVeryLigth">#fafafa</Color>
+    <SolidColorBrush x:Key="BackgroundVeryLigthBrush" Color="{StaticResource BackgroundVeryLigth}"/>
+
+    <Color x:Key="ForegroundMain">#686868</Color>
+    <SolidColorBrush x:Key="ForegroundMainBrush" Color="{StaticResource ForegroundMain}"/>
+
+    <Color x:Key="ForegroundVeyDark">#686868</Color>
+    <SolidColorBrush x:Key="ForegroundVeyDarkBrush" Color="{StaticResource ForegroundVeyDark}"/>
+
+    <Color x:Key="ForegroundLigth">#ffffff</Color>
+    <SolidColorBrush x:Key="ForegroundLigthBrush" Color="{StaticResource ForegroundLigth}"/>
+
+</ResourceDictionary>

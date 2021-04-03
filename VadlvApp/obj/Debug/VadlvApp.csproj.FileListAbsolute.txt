@@ -13,3 +13,12 @@ C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csproj.Generate
 C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csproj.CoreCompileInputs.cache
 C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.exe
 C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.pdb
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\App.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Colors.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Button.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Windows.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Text.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Fonts.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csproj.CopyComplete

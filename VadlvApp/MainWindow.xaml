@@ -9,7 +9,7 @@
         AllowsTransparency="True"
         Icon="Images/Logo/rocket.png"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+    <StackPanel>
+        <TextBox Text="Hello" />
+    </StackPanel>
 </Window>
