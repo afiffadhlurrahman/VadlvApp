@@ -1,0 +1,15 @@
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\VadlvApp.exe.config
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\VadlvApp.exe
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\VadlvApp.pdb
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csprojAssemblyReference.cache
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\MainWindow.g.cs
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\App.g.cs
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp_MarkupCompile.cache
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp_MarkupCompile.lref
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\MainWindow.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.g.resources
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.Properties.Resources.resources
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csproj.GenerateResource.cache
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csproj.CoreCompileInputs.cache
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.exe
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.pdb
