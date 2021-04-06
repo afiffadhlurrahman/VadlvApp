@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\
+D:\PBKK\Login\VadlvApp\obj\Debug\
 VadlvApp
 none
 false
 DEBUG;TRACE
-C:\Users\afiff\source\repos\VadlvApp\VadlvApp\App.xaml
-61282622645
+D:\PBKK\Login\VadlvApp\App.xaml
+7695046918
 
-101619830614
-15760861860
-MainWindow.xaml;Styles\Colors.xaml;Styles\Button.xaml;Styles\Windows.xaml;Styles\Text.xaml;Styles\Fonts.xaml;
+14-580566584
+151007855548
+MainWindow.xaml;Pages\LoginPage.xaml;Styles\Colors.xaml;Styles\Button.xaml;Styles\Windows.xaml;Styles\Text.xaml;Styles\Fonts.xaml;
 
-False
+True
 
